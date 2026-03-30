@@ -120,12 +120,17 @@ nav ul li a{
 }
 .project-card{
     background: white;
-    padding: 20px;
+    padding: 20px 10px;
     margin: 15px;
-    width: 250px;
+    width: 330px;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     transition: 0.3s;
+}
+
+img{
+    height: 150px;
+
 }
 
 .project-card:hover{
